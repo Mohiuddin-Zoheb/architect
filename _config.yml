@@ -1,5 +1,19 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+title: <p align="center"> Mohiuddin Zoheb </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/Mohiuddin-Zoheb">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Computer vision, Machine learning & NLP related problems.
+  I am also Microsoft certified Azure Data Scientist Assosiate and have good knowledge of multiple
+  cloud platforms. 
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
